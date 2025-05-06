@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it22557124&label=Profile%20views&color=0e75b6&style=flat" alt="it22557124" /> </p>
 
-- 🌱 I’m currently learning **OOP with java**
 - 🎓 I’m an Undergraduate at SLIIT
 
 - 📫 How to reach me **Ovindyashashini@gmail.com**
